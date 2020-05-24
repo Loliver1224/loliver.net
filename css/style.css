@@ -112,3 +112,9 @@ h3 {
 .spacer {
   flex: 1;
 }
+
+@media (max-width: 445px){
+  a {
+    font-size: 0.9rem;
+  }
+}
